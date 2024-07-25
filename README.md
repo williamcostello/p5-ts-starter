@@ -6,6 +6,7 @@ It also includes a `globals.d.ts` file that gives you intellisense when using p5
 I'm using yarn but you can use whatever package manager or runtime you want
 ```
 git clone https://github.com/williamcostello/p5-ts-starter.git
+cd p5-ts-start
 yarn install
 yarn dev
 ```
